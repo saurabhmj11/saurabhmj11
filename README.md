@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">A passionate AI ML developer from India</h3>
+<h3 align="center">A passionate AI ML developer from India & open source contributor </h3>
 
 - 🌱 I’m currently learning **AI ML**
 

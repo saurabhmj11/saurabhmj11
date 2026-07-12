@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI ML**
 
-- 📫 How to reach me **saurabhmj11@gmail.com  & https://saurabh-anil-lokhande.netlify.app/** 
+- 📫 How to reach me **saurabhmj11@gmail.com  & https://saurabh-a-lokhande.netlify.app/** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

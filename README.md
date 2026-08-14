@@ -1,139 +1,143 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=SAURABH%20LOKHANDE&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Generative%20AI%20•%20Agentic%20Systems&descAlignY=55&descSize=19&descColor=B5B5FF" width="100%"/>
-
-<a href="https://saurabh-a-lokhande.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=Designing+Agentic+AI+that+thinks+in+steps;LLMs+%7C+RAG+%7C+Multi-Agent+Systems+%7C+Python;Turning+prompts+into+production+systems" alt="Typing SVG"/>
-</a>
+<img src="./assets/agent-trace-banner.svg" width="100%" alt="Saurabh Lokhande — agent trace banner"/>
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-PUNE%2C%20INDIA-0F0C29?style=for-the-badge&logo=googlemaps&logoColor=00F5D4&labelColor=0F0C29"/>
-<img src="https://komarev.com/ghpvc/?username=saurabhmj11&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F0C29"/>
-<img src="https://img.shields.io/github/followers/saurabhmj11?style=for-the-badge&color=00F5D4&labelColor=0F0C29&label=FOLLOWERS"/>
+```
+$ cat /var/log/saurabh/profile.trace
+```
 
-<br/><br/>
+```ini
+[00:00:00] PLANNER   → resolve_identity()
+[00:00:01] PLANNER   → role      = "AI/ML Developer, Generative AI & Agentic AI"
+[00:00:01] PLANNER   → based_in  = "Pune, India"
+[00:00:02] PLANNER   → objective = "build agentic systems that don't need babysitting"
+[00:00:02] PLANNER   → handoff  ─┐
+                                  ▼
+[00:00:03] EXECUTOR  → load_stack(genai, ml, backend)
+[00:00:04] EXECUTOR  → status    = "in progress, always"
+[00:00:04] EXECUTOR  → handoff  ─┐
+                                  ▼
+[00:00:05] VERIFIER  → check(profile) = PASS
+[00:00:05] VERIFIER  → confidence = 0.94
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/saurabh-lokhande-325041112/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://saurabh-a-lokhande.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:saurabhmj11@gmail.com)
+<br/>
 
-</div>
+### manifest.toml
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+```toml
+[genai]
+frameworks   = ["LangChain", "LangGraph", "CrewAI"]
+models       = ["GPT-4", "Claude", "Gemini"]
+practices    = ["RAG", "prompt engineering", "agent orchestration"]
+
+[ml_foundations]
+libraries    = ["PyTorch", "scikit-learn", "TensorFlow", "OpenCV"]
+origin       = "academic projects → carried into production thinking"
+
+[backend]
+language     = "Python"
+frameworks   = ["FastAPI"]
+infra        = ["AWS", "GCP", "Azure", "Docker", "Kubernetes"]
+
+[currently]
+learning     = "multi-agent systems that recover from their own mistakes"
+open_to      = "roles where 'agentic' means more than a buzzword"
+```
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### 🧬 About Me
+### trace.log — recent activity
 
-```yaml
-role:        AI/ML Developer · GenAI & Agentic AI Engineer
-based_in:    Pune, India 🇮🇳
-focus:       LLMs · RAG · Multi-Agent Systems
-tools:       LangChain · LangGraph · CrewAI · PyTorch · FastAPI
-mindset:     ship → measure → refine, on repeat
+```
+● commit stream        watching
+● contribution graph    see below
+● issue response time   usually same day
 ```
 
-🌱 &nbsp;Deep-diving into **Agentic AI & Multi-Agent Systems**
-🛠️ &nbsp;Building with **LangChain, LangGraph, CrewAI, FastAPI**
-🎯 &nbsp;Sharpening fundamentals on **LeetCode, CodeChef, HackerRank**
-📫 &nbsp;**saurabhmj11@gmail.com**
+<img src="https://github-readme-stats.vercel.app/api?username=saurabhmj11&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=F5A623&icon_color=5EEAD4&text_color=C9D1D9&border_color=1A2029" width="100%"/>
 
 </td>
-<td width="40%" valign="top" align="center">
+<td width="45%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhmj11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5D4&icon_color=00F5D4&text_color=E8E8FF&ring_color=00F5D4" width="100%"/>
+### bench.log — where I compete
+
+```
+$ ./run --suite=competitive
+```
+
+&nbsp;&nbsp;→ [`leetcode/saurabhmj11`](https://leetcode.com/saurabhmj11/)
+&nbsp;&nbsp;→ [`codechef/saurabhmj11`](https://www.codechef.com/users/saurabhmj11)
+&nbsp;&nbsp;→ [`hackerrank/saurabhmj11`](https://www.hackerrank.com/saurabhmj11?hr_r=1)
+
+### reach.log — where I answer
+
+```
+$ ./ping saurabh --via
+```
+
+&nbsp;&nbsp;→ [`mail`](mailto:saurabhmj11@gmail.com) &nbsp;`saurabhmj11@gmail.com`
+&nbsp;&nbsp;→ [`web`](https://saurabh-a-lokhande.netlify.app/) &nbsp;`saurabh-a-lokhande.netlify.app`
+&nbsp;&nbsp;→ [`linkedin`](https://www.linkedin.com/in/saurabh-lokhande-325041112/) &nbsp;`/in/saurabh-lokhande`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
+<br/>
 
 <div align="center">
 
-### ⚙️ Tech Arsenal
-
-<br/>
-
-**Generative AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark"/>
-
-<br/><br/>
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,linux&theme=dark"/>
-
-<br/><br/>
-
-**Languages & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,mysql,git&theme=dark"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
-
-<div align="center">
-
-### 📈 Stats & Streaks
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmj11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=E8E8FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhmj11&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="165"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhmj11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
+### contribution_graph.render()
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>Auto-generated nightly via <code>Platane/snk</code> — setup note at the bottom</sub>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+<br/>
+
+```
+[00:00:06] VERIFIER  → trace complete. status = 200 OK.
+```
 
 <div align="center">
-
-### 🏆 Competitive Programming
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-0F0C29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/saurabhmj11/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0F0C29?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/saurabhmj11)
-[![HackerRank](https://img.shields.io/badge/HackerRank-0F0C29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/saurabhmj11?hr_r=1)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=180&section=footer"/>
-
-<div align="center">
-
-<sub><b>⭐ Thanks for stopping by — if something here resonated, a star on my repos goes a long way.</b></sub>
-
+<sub><b>if this trace resolved something useful for you, a ⭐ closes the loop.</b></sub>
 </div>
 
 <!--
-  SETUP NOTES (remove once configured):
-  1. Contribution Snake → add the Platane/snk GitHub Action to a repo named
-     exactly `saurabhmj11/saurabhmj11`, output to the `output` branch.
-  2. All stat/trophy cards are hosted + dynamic — no setup needed beyond
-     your GitHub username already being correct in the URLs above.
-  3. Theme used throughout: "tokyonight" family + custom #0F0C29/#00F5D4
-     palette, kept consistent across every embed for a cohesive look.
+  SETUP NOTES — remove once configured:
+
+  1) Signature banner (this is the whole point, don't skip it):
+     Create a folder `assets/` in your `saurabhmj11/saurabhmj11` repo and
+     upload `agent-trace-banner.svg` there. It's a hand-built, fully custom
+     animated SVG (pulsing signal traveling Planner → Executor → Verifier,
+     glowing name, blinking cursor) — not a template generator. It renders
+     natively on GitHub since SVGs embedded via <img> run their own SMIL
+     animations in the browser.
+
+  2) Contribution "snake": add the Platane/snk GitHub Action to the same
+     repo, output branch `output`. Optional — the trace-log framing above
+     already carries the visual identity even without it.
+
+  3) Design system used throughout, kept consistent everywhere:
+     ink background #0B0E14 / panel #11151C, signal amber #F5A623 as the
+     single accent, cool cyan #5EEAD4 reserved for "verified/success"
+     states only, slate text #C9D1D9. Typeface: monospace throughout
+     (JetBrains Mono / Fira Code) — deliberate, since the whole page reads
+     as a terminal trace, not a resume with a dark mode skin.
+
+  4) Everything above is real markdown/code-block rendering — no badge
+     farms, no rainbow skill-icon rows. The "manifest.toml" and ".log"
+     blocks are static text styled as data, which is the signature device:
+     structure that means something (this is what an agent-trace actually
+     looks like) rather than decoration.
 -->

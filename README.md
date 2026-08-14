@@ -1,166 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:00C9A7&height=220&section=header&text=Hi%20There,%20I'm%20Saurabh%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20GenAI%20%26%20Agentic%20AI%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=260&section=header&text=SAURABH%20LOKHANDE&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20•%20Generative%20AI%20•%20Agentic%20Systems&descAlignY=55&descSize=19&descColor=B5B5FF" width="100%"/>
 
 <a href="https://saurabh-a-lokhande.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+Generative+AI+%26+Agentic+Systems;LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+AI+%C2%B7+Python;Turning+%E2%98%95+into+%3C%2F%3E+since+forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=Designing+Agentic+AI+that+thinks+in+steps;LLMs+%7C+RAG+%7C+Multi-Agent+Systems+%7C+Python;Turning+prompts+into+production+systems" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saurabhmj11&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/saurabhmj11?style=for-the-badge&color=1F3864&labelColor=000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1F3864?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-lokhande-325041112/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C9A7?style=for-the-badge&logo=vercel&logoColor=white)](https://saurabh-a-lokhande.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhmj11@gmail.com)
+<img src="https://img.shields.io/badge/-PUNE%2C%20INDIA-0F0C29?style=for-the-badge&logo=googlemaps&logoColor=00F5D4&labelColor=0F0C29"/>
+<img src="https://komarev.com/ghpvc/?username=saurabhmj11&color=00F5D4&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F0C29"/>
+<img src="https://img.shields.io/github/followers/saurabhmj11?style=for-the-badge&color=00F5D4&labelColor=0F0C29&label=FOLLOWERS"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://www.linkedin.com/in/saurabh-lokhande-325041112/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://saurabh-a-lokhande.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:saurabhmj11@gmail.com)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
 
-### 🚀 About Me
+<br/>
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+### 🧬 About Me
 
 ```yaml
-name: Saurabh Lokhande
-role: AI / ML Developer · Generative AI & Agentic AI Engineer
-location: Pune, India 🇮🇳
-currently_learning: [ "Agentic AI", "Multi-Agent Systems", "Advanced RAG" ]
-currently_building: "AI agents that don't need babysitting"
-fun_fact: "I ship code with more enthusiasm than my coffee intake would suggest ☕"
+role:        AI/ML Developer · GenAI & Agentic AI Engineer
+based_in:    Pune, India 🇮🇳
+focus:       LLMs · RAG · Multi-Agent Systems
+tools:       LangChain · LangGraph · CrewAI · PyTorch · FastAPI
+mindset:     ship → measure → refine, on repeat
 ```
 
-- 🌱 Currently deep-diving into **AI/ML, LLMs, RAG & Agentic AI**
-- 🛠️ Working with **LangChain, LangGraph, CrewAI, FastAPI, PyTorch & Scikit-learn**
-- 🏆 Competitive programmer on **LeetCode, CodeChef & HackerRank**
-- 📫 Reach me at **saurabhmj11@gmail.com**
-- ⚡ Fun fact: I open-source my learning, not just my code
+🌱 &nbsp;Deep-diving into **Agentic AI & Multi-Agent Systems**
+🛠️ &nbsp;Building with **LangChain, LangGraph, CrewAI, FastAPI**
+🎯 &nbsp;Sharpening fundamentals on **LeetCode, CodeChef, HackerRank**
+📫 &nbsp;**saurabhmj11@gmail.com**
 
----
+</td>
+<td width="40%" valign="top" align="center">
 
-### 🎮 Play a Quick Round While You're Here
+<img src="https://github-readme-stats.vercel.app/api?username=saurabhmj11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5D4&icon_color=00F5D4&text_color=E8E8FF&ring_color=00F5D4" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
 
 <div align="center">
 
-<a href="https://saurabhmj11.github.io/snake-game" target="_blank">
+### ⚙️ Tech Arsenal
 
-```
-  ██████╗ ██╗      █████╗ ██╗   ██╗██╗
-  ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██║
-  ██████╔╝██║     ███████║ ╚████╔╝ ██║
-  ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ╚═╝
-  ██║     ███████╗██║  ██║   ██║   ██╗
-  ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝
-        press ⭐ to start the game →
-```
+<br/>
 
-</a>
-
-**🐍 My contribution graph turns into a snake every night — [watch it eat →](#-contribution-snake)**
-
-</div>
-
----
-
-### 🧠 Tech Arsenal
-
-<div align="center">
-
-**AI / ML / GenAI**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" />
+**Generative AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark"/>
 
 <br/><br/>
 
 **Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,linux&theme=dark" />
-
-<br/><br/>
-
-**Languages & Web**
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,mysql&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,linux&theme=dark"/>
 
 <br/><br/>
 
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,figma,arduino,photoshop&theme=dark" />
+**Languages & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,mysql,git&theme=dark"/>
 
 </div>
 
----
-
-### 📊 GitHub Stats That Actually Flex
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saurabhmj11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&icon_color=00C9A7&text_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmj11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=ffffff" />
+
+### 📈 Stats & Streaks
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmj11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=E8E8FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhmj11&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhmj11&theme=radical&hide_border=true&background=0D1117&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=saurabhmj11&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=saurabhmj11&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:00F5D4&height=3&width=100%"/>
+
+<div align="center">
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/saurabhmj11/saurabhmj11/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-*(Set up via `Platane/snk` GitHub Action — see setup note at the bottom 👇)*
+<sub>Auto-generated nightly via <code>Platane/snk</code> — setup note at the bottom</sub>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:302B63&height=3&width=100%"/>
+
+<div align="center">
 
 ### 🏆 Competitive Programming
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-saurabhmj11-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/saurabhmj11/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-saurabhmj11-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/saurabhmj11)
-[![HackerRank](https://img.shields.io/badge/HackerRank-saurabhmj11-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saurabhmj11?hr_r=1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0F0C29?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/saurabhmj11/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0F0C29?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/saurabhmj11)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0F0C29?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/saurabhmj11?hr_r=1)
 
 </div>
 
----
-
-### 🌐 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302B63,100:0F0C29&height=180&section=footer"/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-lokhande-325041112/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saurabh-a-lokhande.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhmj11@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:1F3864&height=120&section=footer"/>
-
-**⭐ If you found this profile interesting, drop a star on my repos — it genuinely makes my day.**
+<sub><b>⭐ Thanks for stopping by — if something here resonated, a star on my repos goes a long way.</b></sub>
 
 </div>
 
 <!--
-  📌 SETUP NOTES (delete this comment once configured):
-  1. Contribution Snake: add the workflow from https://github.com/Platane/snk
-     to a repo named exactly `saurabhmj11/saurabhmj11`, on the `output` branch.
-  2. Stats cards (github-readme-stats, streak-stats, trophy) are hosted, dynamic,
-     and update automatically — no setup needed beyond your GitHub username.
-  3. Optional: replace the ASCII "PLAY" block with a real link to a hosted
-     mini-game (e.g. a simple Snake/Flappy clone on GitHub Pages) for true
-     interactivity — GitHub READMEs can't run JS directly, so games must be
-     hosted externally and linked.
+  SETUP NOTES (remove once configured):
+  1. Contribution Snake → add the Platane/snk GitHub Action to a repo named
+     exactly `saurabhmj11/saurabhmj11`, output to the `output` branch.
+  2. All stat/trophy cards are hosted + dynamic — no setup needed beyond
+     your GitHub username already being correct in the URLs above.
+  3. Theme used throughout: "tokyonight" family + custom #0F0C29/#00F5D4
+     palette, kept consistent across every embed for a cohesive look.
 -->
